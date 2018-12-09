@@ -14988,7 +14988,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button) .sqs-product-quic
 }
 
 .bg-image {
-    background-image: url("https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2118/assets/default-bg-image.jpg");
+    background-image: url("images/harita.jpg");
     background-position: top left;
     background-size: cover;
     background-attachment: fixed;
@@ -15152,7 +15152,7 @@ body:not(.tweak-product-quick-view-lightbox-show-close-button) .sqs-product-quic
 }
 
 .page-bg-image {
-    background-image: url("https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2118/assets/alt-bg-image.jpg");
+    background-image: url("images/harita.jpg");
     background-position: top left;
     background-size: cover;
     background-attachment: fixed;
@@ -16116,7 +16116,7 @@ body {
 }
 
 #outerWrapper {
-    background-image: url("https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2118/assets/alt-bg-image.jpg");
+    background-image: url("images/harita.jpg");
     background-image: none;
     background-position: top left;
     background-size: cover;
@@ -16131,10 +16131,10 @@ body {
 }
 
 .collection-type-template-page #outerWrapper {
-    background-image: url("https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2118/assets/default-bg-image.jpg");
+    background-image: url("../images/harita.jpg");
     background-position: top left;
     background-attachment: fixed;
-    background-image: url("https://static1.squarespace.com/static/56cb6c0001dbae33a8227531/t/56ccdc64cf80a1db151ed7dd/1456266340825/cocktail-bw.jpg");
+    /*background-image: url("images/harita.jpg");*/
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
@@ -18166,7 +18166,7 @@ body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-offset 
     }
 
     body:not(.collection-type-template-page).mobile-background-image #outerWrapper,body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster.mobile-background-image #outerWrapper {
-        background-image: url("https://static1.squarespace.com/static/ta/507c1fdb84ae362b5e7be351/2118/assets/alt-bg-image.jpg");
+        background-image: url("images/harita.jpg");
         background-image: none;
         background-position: top left;
         background-size: cover;
@@ -18358,7 +18358,7 @@ body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-offset 
 }
 
 .bg-image {
-    background-image: url("https://static1.squarespace.com/static/56cb6c0001dbae33a8227531/t/56ccdc64cf80a1db151ed7dd/1456266340825/cocktail-bw.jpg");
+    background-image: url("images/harita.jpg");
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
